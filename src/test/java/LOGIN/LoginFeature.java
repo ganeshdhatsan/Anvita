@@ -30,5 +30,16 @@ public class LoginFeature {
 
 	}
 	
+	private void conflict() {
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+
+	}
+	
 
 }
