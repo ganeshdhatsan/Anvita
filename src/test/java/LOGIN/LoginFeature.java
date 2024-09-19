@@ -36,9 +36,20 @@ public class LoginFeature {
 		System.out.println();
 	}
 	
-	public void userName() {
-		int Id;
-		char Name;	
+public void userName() {
+	int Id;
+	char Name;	
+}
+	private void conflict() {
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+
 	}
+
 
 }
