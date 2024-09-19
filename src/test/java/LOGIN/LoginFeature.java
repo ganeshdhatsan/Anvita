@@ -19,7 +19,16 @@ public class LoginFeature {
 		System.out.println();
 	}
 	
-	
+	private void method() {
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+
+	}
 	
 
 }
