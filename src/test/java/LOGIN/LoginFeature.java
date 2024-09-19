@@ -36,6 +36,9 @@ public class LoginFeature {
 		System.out.println();
 	}
 	
-	
+	public void userName() {
+		int Id;
+		char Name;	
+	}
 
 }
