@@ -19,7 +19,7 @@ public class LoginFeature {
 		System.out.println();
 	}
 	
-	private void method() {
+	public void signUp() {
 		System.out.println();
 		System.out.println();
 		System.out.println();
@@ -27,8 +27,15 @@ public class LoginFeature {
 		System.out.println();
 		System.out.println();
 		System.out.println();
-
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
 	}
+	
 	
 
 }
